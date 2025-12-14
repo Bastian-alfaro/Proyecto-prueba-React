@@ -1,16 +1,38 @@
-# React + Vite
+# 🛒 Proyecto Prueba React – Tienda Electrónica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto corresponde a una **aplicación web de prueba** desarrollada con **React y Vite**, con fines **educativos y de aprendizaje**.
 
-Currently, two official plugins are available:
+La aplicación simula una **tienda de productos electrónicos**, permitiendo visualizar productos, ver el detalle de cada uno y gestionar un carrito de compras de forma básica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Vinculo Pagina Web:**  
+https://bastian-alfaro.github.io/Proyecto-prueba-React/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Objetivo del proyecto
+- Aprender el uso de **React** en el frontend
+- Implementar **navegación entre páginas** con React Router
+- Practicar la creación de componentes reutilizables
+- Simular un carrito de compras simple
+- Publicar una aplicación web usando **GitHub Pages**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Funcionalidades principales
+- Página de inicio con productos destacados
+- Catálogo de productos
+- Página de detalle del producto
+- Carrito de compras (agregar productos y ver total)
+- Secciones informativas (Quiénes somos y Contáctanos)
+- Navegación sin recarga de página
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- React
+- Vite
+- React Router DOM
+- JavaScript
+- CSS
+- GitHub Pages
+---
