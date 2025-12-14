@@ -87,7 +87,8 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    /* 👇 basename DEBE ser igual al nombre del repositorio */
+    <BrowserRouter basename="/Proyecto-prueba-React">
       <Navbar carritoCantidad={carrito.reduce((a, p) => a + p.cantidad, 0)} />
 
       <Routes>
